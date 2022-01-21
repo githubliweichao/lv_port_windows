@@ -1,0 +1,3 @@
+[submodule "LVGL.Windows/lvgl"]
+	path = LVGL.Windows/lvgl
+	url = https://github.com/lvgl/lvgl
